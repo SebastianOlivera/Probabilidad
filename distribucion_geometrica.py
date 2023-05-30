@@ -2,7 +2,7 @@ import numpy as np
 from scipy.stats import geom
 
 
-# Función para generar una muestra de la distribución geometrica y crear un diagrama de cajas e histograma
+# Función para generar una muestra de la distribución geometrica y crear un diagrama de cajas e histograma, generar la mediana, la moda, la media empirica y varianza empirica.
 
 
 def distribucion_geometrica(size, eje_caja, eje_histograma):
